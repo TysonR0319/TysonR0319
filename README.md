@@ -1,7 +1,5 @@
 ![MasterHead](img/Banner.gif)
-<kbd>
-<img src="img/leftside.png">
-</kbd>
+<img src="img/subheading.gif" width="auto" height="50">
 <h3 align="center">I'm Tyson, a motivated Web developer looking for a role as a front-end web developer. Passionate about tech, learning new skills and frameworks, and improving myself daily!</h3>
 
 - 🌱 I’m currently learning **UX/UI Design, React, CSS SASS**
