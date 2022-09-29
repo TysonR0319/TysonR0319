@@ -1,12 +1,12 @@
 ![MasterHead](img/Banner.gif)
-<h1 align="center">Hi 👋, I'm Tyson Robert</h1>
-<h3 align="center">Motivated Web developer looking for a role as a front-end web developer. Passionate about tech, learning new skills and frameworks, and improving myself daily!</h3>
+
+<h3 align="center">I'm Tyson, a motivated Web developer looking for a role as a front-end web developer. Passionate about tech, learning new skills and frameworks, and improving myself daily!</h3>
 
 - 🌱 I’m currently learning **UX/UI Design, React, CSS SASS**
 
 - 📫 How to reach me **TysonR0319@gmail.com**
 
-- ⚡ Fun fact **I'm a coffee lover!**
+- <img src="img/coffee.gif" width="30" height="30"> Fun fact **I'm a coffee lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
