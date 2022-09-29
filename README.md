@@ -1,4 +1,4 @@
-![MasterHead](https://share.creavite.co/tQnKC5WLKxnLWerd.gif)
+![MasterHead](img/Banner.gif)
 <h1 align="center">Hi 👋, I'm Tyson Robert</h1>
 <h3 align="center">Motivated Web developer looking for a role as a front-end web developer. Passionate about tech, learning new skills and frameworks, and improving myself daily!</h3>
 
