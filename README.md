@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **UX/UI Design, React, CSS SASS**
 
-- 📫 How to reach me **TysonR0319@gmail.com**
+- 🌱 How to reach me **TysonR0319@gmail.com**
 
-- <img src="img/coffee.gif" width="30" height="30"> Fun fact **I'm a coffee lover!**
+- 🌱 Fun fact **I'm a coffee lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
