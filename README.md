@@ -21,7 +21,7 @@
 <div style="display: flex; flex-direction: column;">
 <p><img align="left" style="width: 50%;"src="https://github-readme-stats.vercel.app/api/top-langs?username=tysonr0319&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="tysonr0319" /></p>
 
-<p>&nbsp;<img align="middle" style="width: 50%;"src="https://github-readme-stats.vercel.app/api?username=tysonr0319&show_icons=true&theme=tokyonight&locale=en" alt="tysonr0319" /></p>
+<p>&nbsp;<img align="center" style="width: 50%;"src="https://github-readme-stats.vercel.app/api?username=tysonr0319&show_icons=true&theme=tokyonight&locale=en" alt="tysonr0319" /></p>
 <p><img align="right" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=tysonr0319&theme=dark" alt="tysonr0319" /></p>
 </div >
 <img src="img/footer.gif" width="100%" height="200">
